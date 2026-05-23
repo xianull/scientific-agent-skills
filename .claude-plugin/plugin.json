@@ -1,0 +1,5 @@
+{
+  "name": "scientific-skills",
+  "version": "0.1.0",
+  "description": "Bundled scientific computing skills from K-Dense AI: single-cell analysis (anndata, scanpy, scvi-tools, scvelo, cellxgene-census), bioinformatics (biopython, bioservices, gget, pysam), genomics (geniml, gtars, arboreto), clinical/EHR (pyhealth), drug discovery (pytdc, depmap, primekg), phylogenetics, and more."
+}

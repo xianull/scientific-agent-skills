@@ -1,0 +1,14 @@
+{
+  "name": "k-dense-scientific",
+  "owner": {
+    "name": "K-Dense AI (forked)",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  "plugins": [
+    {
+      "name": "scientific-skills",
+      "source": "./",
+      "description": "Scientific computing skills (anndata, scanpy, scvi-tools, pysam, pyhealth, etc.) forked from K-Dense-AI/scientific-agent-skills and packaged as a Claude Code plugin."
+    }
+  ]
+}
